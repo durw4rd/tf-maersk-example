@@ -1,4 +1,4 @@
-## An example use of LaunchDarkly's Terraform provider for managing custom role
+## An example use of LaunchDarkly's Terraform provider for managing custom roles
 
 Instructions:
 1. Clone this repository.
